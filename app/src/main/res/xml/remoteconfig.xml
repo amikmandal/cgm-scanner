@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <entry>
+        <key>measure_visibility</key>
+        <value>false</value>
+    </entry>
+    <entry>
+        <key>time_to_allow_editing</key>
+        <value>24</value>
+    </entry>
+    <entry>
+        <key>admins</key>
+        <value>zhangnemo34@hotmail.com,mmatiaschek@gmail.com</value>
+    </entry>
+    <entry>
+        <key>allow_edit</key>
+        <value>false</value>
+    </entry>
+    <entry>
+        <key>allow_delete</key>
+        <value>false</value>
+    </entry>
+    <entry>
+        <key>debug</key>
+        <value>false</value>
+    </entry>
+    <entry>
+        <key>sync_period</key>
+        <value>5</value>
+    </entry>
+</defaultsMap>
